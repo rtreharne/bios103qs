@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFilter
 from PIL import Image, ImageDraw, ImageFilter
 
 
-def generate_image(fname='hemocytometer_slide.png'):
+def generate_image(grid=False):
     # Define image size
     width = 1000
     height = 1000
@@ -43,33 +43,30 @@ def generate_image(fname='hemocytometer_slide.png'):
         
         draw.ellipse((x_center-r, y_center-r, x_center+r, y_center+r), fill=fill_color, outline=outline_color, width=3)
 
+    if grid:
+        # Overlay grid, very very light gray
+        major_grid_color = 'lightgray'
+        minor_grid_color = 'lightgray'
 
-    # Overlay grid, very very light gray
-    major_grid_color = 'lightgray'
-    minor_grid_color = 'lightgray'
+        # I want 9 major grids
+        major_grid_spacing = width // 3
+        
+        # I want 4 minor grids per major grid
+        minor_grid_spacing = width // 12
 
-    # I want 9 major grids
-    major_grid_spacing = width // 3
-    
-    # I want 4 minor grids per major grid
-    minor_grid_spacing = width // 12
+        # Draw major grid
+        for i in range(0, width, major_grid_spacing):
+            draw.line((i, 0, i, height), fill=major_grid_color, width=1)
+            draw.line((0, i, width, i), fill=major_grid_color, width=1)
 
-    # Draw major grid
-    for i in range(0, width, major_grid_spacing):
-        draw.line((i, 0, i, height), fill=major_grid_color, width=1)
-        draw.line((0, i, width, i), fill=major_grid_color, width=1)
-
-    # Draw minor grid
-    for i in range(0, width, minor_grid_spacing):
-        draw.line((i, 0, i, height), fill=minor_grid_color, width=1)
-        draw.line((0, i, width, i), fill=minor_grid_color, width=1)
-
-
-
+        # Draw minor grid
+        for i in range(0, width, minor_grid_spacing):
+            draw.line((i, 0, i, height), fill=minor_grid_color, width=1)
+            draw.line((0, i, width, i), fill=minor_grid_color, width=1)
 
 
     # Save image
-    img.save(fname)
+    return img
 
 
 if __name__ == '__main__':
