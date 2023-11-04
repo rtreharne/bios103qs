@@ -1,3 +1,6 @@
+# count.R script file
+
+# Load my existing hemo-tools.R script
 source("11_CELL_BIOLOGY/hemo-tools.R")
 
 # Count the number of cells in the image
