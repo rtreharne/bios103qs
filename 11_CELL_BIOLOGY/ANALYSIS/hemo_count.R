@@ -54,11 +54,11 @@ count_blue_circles <- function(image_path, threshold = 0.99) {
 }
 
 # Example usage
-result <- count_blue_circles("11/DATA/hemocytometer_slide.png")
-print(result)
+#result <- count_blue_circles("11/DATA/hemocytometer_slide.png")
+#print(result)
 
 
 # Example usage
-result <- count_objects("11/DATA/hemocytometer_slide.png")
-print(result)
+#result <- count_objects("11/DATA/hemocytometer_slide.png")
+#print(result)
 

@@ -1,4 +1,4 @@
-# Week 11. Counting Cells with a Hemocytometer.
+# Hemocytometry
 
 ## Resources
 

@@ -3,13 +3,15 @@ from PIL import Image, ImageDraw, ImageFilter
 from PIL import Image, ImageDraw, ImageFilter
 
 
-def generate_image(grid=False):
+def generate_image(grid=False, mean=100, std=10):
     # Define image size
     width = 1000
     height = 1000
     
     # Define number of circles
-    num_circles = random.randint(100, 300)
+    # Define according to normal distribution
+    num_circles = int(random.normalvariate(mean, std))
+    
     
     # Define radius of circles
     r = 5
