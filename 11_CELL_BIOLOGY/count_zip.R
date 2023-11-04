@@ -28,11 +28,11 @@ cat(" Mean cell concentration: ",
 
 # Plot a histogram of cell concentrations
 hist(
-        cell_concentrations,
-        breaks = 20,
-        col = "lightblue",
-        main = "Number of cells per image",
-        xlab = "Number of cells"
+    cell_concentrations,
+    breaks = 20,
+    col = "lightblue",
+    main = "",
+    xlab = "Cell concentration (cells/mL)"
     )
 
 # Perform a Shapiro-Wilks test.
