@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFilter
 from PIL import Image, ImageDraw, ImageFilter
 
 
-def generate_image(grid=False, mean=100, std=10):
+def generate_image(grid=False, mean=100, std=10, save=False):
     # Define image size
     width = 1000
     height = 1000
@@ -44,6 +44,9 @@ def generate_image(grid=False, mean=100, std=10):
         fill_color = 'blue' if outline_color == 'blue' else 'white'
         
         draw.ellipse((x_center-r, y_center-r, x_center+r, y_center+r), fill=fill_color, outline=outline_color, width=3)
+    
+    if save:
+        img.save('hemo.png')
 
     if grid:
         # Overlay grid, very very light gray
@@ -66,11 +69,14 @@ def generate_image(grid=False, mean=100, std=10):
             draw.line((i, 0, i, height), fill=minor_grid_color, width=1)
             draw.line((0, i, width, i), fill=minor_grid_color, width=1)
 
+            if save:
+                img.save('hemo_grid.png')
+
 
     # Save image
     return img
 
 
 if __name__ == '__main__':
-    generate_image()
+    generate_image(grid=True, save=True)
 
