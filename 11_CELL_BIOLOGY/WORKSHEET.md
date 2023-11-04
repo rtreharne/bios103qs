@@ -151,7 +151,7 @@ hist(
 ```
 And here's the result ...
 
-![hemo_hist.png](hemo_hist.png)
+![hemo_hist.png](hemo-hist.png)
 
 **Figure 1:** Histogram showing the distribution of red cell concentrations in 100 patients.
 
