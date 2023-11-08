@@ -1,10 +1,10 @@
 # count.R script file
 
 # Load my existing hemo-tools.R script
-source("11_CELL_BIOLOGY/hemo-tools.R")
+source("hemo-tools.R")
 
 # Count the number of cells in the image
-result <- count_objects("11_CELL_BIOLOGY/hemo.png")
+result <- count_objects("hemo.png")
 
 # Calculate cell concentration
 cell_concentration <- result * 2 * 1e4 / 9
