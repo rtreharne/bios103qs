@@ -130,7 +130,7 @@ If you compile this script successfully you should see the following output in y
 
 ```
 Counting number of viable cells in each image ... Done! 
- Mean cell concentration:  1.95e+05  cells/mL
+ Mean cell concentration:  1.96e+05  cells/mL
  Standard deviation: 2.56e+04  cells/mL
 ```
 
@@ -174,6 +174,10 @@ Here's the output:
 data:  cell_concentrations
 W = 0.98815, p-value = 0.5195
 ```
+
+# Part 4
+
+
 
 
 

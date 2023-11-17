@@ -1,5 +1,8 @@
 # count_zip.R script file
 
+# Change working directory
+# setwd("C:/Users/treharne/Documents/202324/CURRICULUM_DEVEL/BIOS103QS/11_CELL_BIOLOGY")
+
 # Load my existing hemo-tools.R script
 source("hemo-tools.R")
 
@@ -62,19 +65,8 @@ legend("topright",
        lty = c(1, 1, 2, 1), 
        lwd = c(1, 1, 1, 2))
 
-# Make the plot landscape
-# Set the margins
-par(mar = c(5, 5, 1, 1))
-
-# Rotate the plot 90 degrees
-par(mai = c(1, 1, 5, 1))
-
-
-
-
-
-
 
 # Perform a Shapiro-Wilks test.
 # If p < 0.5 then reject null hypothesis that data is normally distributed.
 print(shapiro.test(cell_concentrations))
+
