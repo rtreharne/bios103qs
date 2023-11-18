@@ -22,7 +22,11 @@ Each white circle (with a black outline) represents a viable red blood cell. Eac
 
 How long did it take you to calculate the concentration for that single sample? Probably not that long, but what if you had to measure 100 samples? Are you going to do that manually? Good luck with that.
 
-Let's use our coding superpowers to automate the task of counting viable cells and calculating the cell concentration for a single sample. Here's a script called [hemo-tools.R](hemo-tools.R) that I prepared earlier. I don't need you to understand this script line for line, just know that it contains a function called `count_objects()`. This function will analyse a hemocytometer slide image and count the number of viable cells for you. You're welcome!
+Let's use our coding superpowers to automate the task of counting viable cells and calculating the cell concentration for a single sample. 
+
+Open Rstudio and create a new R project (in a sensible location) called "CellBiology". 
+
+Here's a script called [hemo-tools.R](hemo-tools.R) that I prepared earlier. I don't need you to understand this script line for line, just know that it contains a function called `count_objects()`. This function will analyse a hemocytometer slide image and count the number of viable cells for you. You're welcome!
 
 Download and save the file [hemo-tools.R](hemo-tools.R) to your R project.
 

@@ -1,3 +1,7 @@
+# This script will create a Classic Quiz in Canvas that contains a single question drawn from a bank of 100 questions.
+# Each question one of the unique .zip files containing 100 hemocytometer images.
+
+
 import requests
 from canvasapi import Canvas
 import pandas as pd
@@ -72,14 +76,16 @@ def prepare_answers(fname):
     return df
 
 if __name__ == '__main__':
-    CANVAS_URL = 'https://canvas.liverpool.ac.uk'
-    CANVAS_TOKEN = '15502~q7gv9bCdT95Xka8MFfoHuRxEJvBLcDwSBsNLFJH1Dby6k5VBerVBvgUDC0cZPxph'
+
+    # Ask for URL and token
+    CANVAS_URL = input("Enter your Canvas URL: ")
+    CANVAS_TOKEN = input("Enter your Canvas API Toekn: ")
 
     # Initialize a new Canvas object
     canvas = Canvas(CANVAS_URL, CANVAS_TOKEN)
 
-    course_id = 53523
-    quiz_id = 155711
+    # Get the course ID
+    course_id = input("Enter your course ID: ")
 
     # Get the Course object
     course = canvas.get_course(course_id)
