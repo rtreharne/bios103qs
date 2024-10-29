@@ -18,7 +18,7 @@ def get_quiz(course):
         print("Invalid quiz number")
 
 def create_group_questions(quiz_group):
-    for i in range(200, 300):
+    for i in range(200, 301):
 
         answer = get_answer(i)
 
@@ -50,7 +50,7 @@ print(random_number)</code></pre>
                 'question_type': 'numerical_question',
                 'quiz_group_id': quiz_group.id,
                 'correct_comments': 'Correct, well done!',
-                'incorrect_comments': 'Incorrect, try again!',
+                'incorrect_comments': 'Incorrect.',
                 'answers': [
                     {
                         'text': f'Answer #{i}', 

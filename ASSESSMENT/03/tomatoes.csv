@@ -1,0 +1,1101 @@
+variety,light_intensity,yield
+Sweet 100,100,677.1
+Sweet 100,125,743.71
+Sweet 100,150,802.94
+Sweet 100,175,853.23
+Sweet 100,200,937.42
+Sweet 100,225,1036.26
+Sweet 100,250,1059.14
+Sweet 100,275,1176.49
+Sweet 100,300,1252.51
+Sweet 100,325,1273.37
+Sweet 100,350,1393.77
+Sweet Million,100,607.05
+Sweet Million,125,683.65
+Sweet Million,150,752.69
+Sweet Million,175,827.62
+Sweet Million,200,895.2
+Sweet Million,225,-999.0
+Sweet Million,250,-999.0
+Sweet Million,275,1061.65
+Sweet Million,300,1159.09
+Sweet Million,325,1278.8
+Sweet Million,350,1286.81
+Sungold,100,-999.0
+Sungold,125,774.42
+Sungold,150,874.75
+Sungold,175,937.37
+Sungold,200,996.94
+Sungold,225,1039.35
+Sungold,250,1158.51
+Sungold,275,-999.0
+Sungold,300,1218.15
+Sungold,325,1342.37
+Sungold,350,1383.65
+Sun Sugar,100,694.69
+Sun Sugar,125,739.54
+Sun Sugar,150,788.44
+Sun Sugar,175,852.07
+Sun Sugar,200,906.8
+Sun Sugar,225,1005.37
+Sun Sugar,250,-999.0
+Sun Sugar,275,1116.17
+Sun Sugar,300,1193.34
+Sun Sugar,325,1222.45
+Sun Sugar,350,1267.0
+Juliet,100,606.2
+Juliet,125,699.29
+Juliet,150,746.9
+Juliet,175,827.92
+Juliet,200,891.06
+Juliet,225,926.46
+Juliet,250,984.46
+Juliet,275,1079.1
+Juliet,300,-999.0
+Juliet,325,1190.23
+Juliet,350,-999.0
+Black Cherry,100,-999.0
+Black Cherry,125,741.6
+Black Cherry,150,784.94
+Black Cherry,175,915.59
+Black Cherry,200,-999.0
+Black Cherry,225,1021.35
+Black Cherry,250,1106.43
+Black Cherry,275,1135.52
+Black Cherry,300,1219.35
+Black Cherry,325,-999.0
+Black Cherry,350,1396.94
+Chocolate Cherry,100,-999.0
+Chocolate Cherry,125,730.18
+Chocolate Cherry,150,768.15
+Chocolate Cherry,175,840.59
+Chocolate Cherry,200,-999.0
+Chocolate Cherry,225,1027.73
+Chocolate Cherry,250,-999.0
+Chocolate Cherry,275,1132.81
+Chocolate Cherry,300,1218.16
+Chocolate Cherry,325,1274.68
+Chocolate Cherry,350,1358.02
+Yellow Pear,100,697.51
+Yellow Pear,125,759.31
+Yellow Pear,150,-999.0
+Yellow Pear,175,899.66
+Yellow Pear,200,945.56
+Yellow Pear,225,990.43
+Yellow Pear,250,-999.0
+Yellow Pear,275,1178.87
+Yellow Pear,300,1197.18
+Yellow Pear,325,1310.56
+Yellow Pear,350,1364.64
+Red Pear,100,688.06
+Red Pear,125,-999.0
+Red Pear,150,810.88
+Red Pear,175,851.85
+Red Pear,200,-999.0
+Red Pear,225,1026.07
+Red Pear,250,1050.95
+Red Pear,275,1091.79
+Red Pear,300,1140.88
+Red Pear,325,1215.34
+Red Pear,350,1294.86
+Tiny Tim,100,-999.0
+Tiny Tim,125,-999.0
+Tiny Tim,150,782.75
+Tiny Tim,175,886.53
+Tiny Tim,200,937.87
+Tiny Tim,225,967.0
+Tiny Tim,250,1061.51
+Tiny Tim,275,1108.15
+Tiny Tim,300,1193.67
+Tiny Tim,325,1241.6
+Tiny Tim,350,1316.08
+Gardener's Delight,100,-999.0
+Gardener's Delight,125,712.88
+Gardener's Delight,150,785.46
+Gardener's Delight,175,-999.0
+Gardener's Delight,200,-999.0
+Gardener's Delight,225,-999.0
+Gardener's Delight,250,1035.89
+Gardener's Delight,275,-999.0
+Gardener's Delight,300,-999.0
+Gardener's Delight,325,1245.84
+Gardener's Delight,350,1254.24
+Sweet Chelsea,100,697.57
+Sweet Chelsea,125,750.11
+Sweet Chelsea,150,805.56
+Sweet Chelsea,175,845.72
+Sweet Chelsea,200,935.26
+Sweet Chelsea,225,1007.29
+Sweet Chelsea,250,-999.0
+Sweet Chelsea,275,1162.16
+Sweet Chelsea,300,-999.0
+Sweet Chelsea,325,1315.58
+Sweet Chelsea,350,1315.43
+Honeybunch,100,701.85
+Honeybunch,125,792.51
+Honeybunch,150,866.5
+Honeybunch,175,931.83
+Honeybunch,200,1004.41
+Honeybunch,225,1032.53
+Honeybunch,250,1153.15
+Honeybunch,275,1215.72
+Honeybunch,300,1267.14
+Honeybunch,325,1345.68
+Honeybunch,350,1426.65
+Napa Grape,100,654.45
+Napa Grape,125,-999.0
+Napa Grape,150,802.15
+Napa Grape,175,875.3
+Napa Grape,200,-999.0
+Napa Grape,225,-999.0
+Napa Grape,250,1115.68
+Napa Grape,275,1145.33
+Napa Grape,300,1226.89
+Napa Grape,325,-999.0
+Napa Grape,350,1337.61
+Isis Candy,100,705.89
+Isis Candy,125,772.73
+Isis Candy,150,856.85
+Isis Candy,175,920.05
+Isis Candy,200,986.87
+Isis Candy,225,1085.33
+Isis Candy,250,1142.36
+Isis Candy,275,-999.0
+Isis Candy,300,-999.0
+Isis Candy,325,1341.73
+Isis Candy,350,1417.78
+Tommy Toe,100,628.32
+Tommy Toe,125,702.47
+Tommy Toe,150,745.89
+Tommy Toe,175,-999.0
+Tommy Toe,200,871.63
+Tommy Toe,225,944.44
+Tommy Toe,250,1038.8
+Tommy Toe,275,-999.0
+Tommy Toe,300,1174.71
+Tommy Toe,325,1258.7
+Tommy Toe,350,1282.48
+Sakura,100,677.71
+Sakura,125,752.79
+Sakura,150,-999.0
+Sakura,175,882.3
+Sakura,200,950.03
+Sakura,225,1013.79
+Sakura,250,1098.75
+Sakura,275,-999.0
+Sakura,300,-999.0
+Sakura,325,1268.14
+Sakura,350,1347.71
+Black Pearl,100,646.71
+Black Pearl,125,701.58
+Black Pearl,150,799.83
+Black Pearl,175,870.23
+Black Pearl,200,911.6
+Black Pearl,225,973.12
+Black Pearl,250,1098.87
+Black Pearl,275,1176.41
+Black Pearl,300,1202.15
+Black Pearl,325,1221.31
+Black Pearl,350,1306.13
+Snow White,100,653.27
+Snow White,125,725.1
+Snow White,150,773.39
+Snow White,175,812.44
+Snow White,200,914.37
+Snow White,225,-999.0
+Snow White,250,-999.0
+Snow White,275,1095.27
+Snow White,300,1195.97
+Snow White,325,-999.0
+Snow White,350,1328.65
+Super Sweet 100,100,-999.0
+Super Sweet 100,125,730.73
+Super Sweet 100,150,811.07
+Super Sweet 100,175,833.79
+Super Sweet 100,200,-999.0
+Super Sweet 100,225,-999.0
+Super Sweet 100,250,-999.0
+Super Sweet 100,275,1082.43
+Super Sweet 100,300,-999.0
+Super Sweet 100,325,1263.64
+Super Sweet 100,350,1268.67
+Sugary,100,691.15
+Sugary,125,-999.0
+Sugary,150,-999.0
+Sugary,175,916.45
+Sugary,200,-999.0
+Sugary,225,1059.5
+Sugary,250,1105.74
+Sugary,275,1232.8
+Sugary,300,1258.39
+Sugary,325,1332.79
+Sugary,350,-999.0
+Sprite,100,698.79
+Sprite,125,775.52
+Sprite,150,-999.0
+Sprite,175,908.98
+Sprite,200,959.36
+Sprite,225,1038.69
+Sprite,250,-999.0
+Sprite,275,1237.79
+Sprite,300,1295.04
+Sprite,325,-999.0
+Sprite,350,1385.48
+Sunpeach,100,653.17
+Sunpeach,125,704.37
+Sunpeach,150,-999.0
+Sunpeach,175,868.4
+Sunpeach,200,961.94
+Sunpeach,225,1003.55
+Sunpeach,250,1069.4
+Sunpeach,275,-999.0
+Sunpeach,300,1220.88
+Sunpeach,325,-999.0
+Sunpeach,350,1328.0
+Cherry Falls,100,705.19
+Cherry Falls,125,-999.0
+Cherry Falls,150,807.8
+Cherry Falls,175,874.08
+Cherry Falls,200,966.23
+Cherry Falls,225,1045.54
+Cherry Falls,250,1093.47
+Cherry Falls,275,1181.82
+Cherry Falls,300,1218.41
+Cherry Falls,325,1343.31
+Cherry Falls,350,1423.31
+Tumbling Tom Red,100,679.63
+Tumbling Tom Red,125,757.96
+Tumbling Tom Red,150,831.98
+Tumbling Tom Red,175,-999.0
+Tumbling Tom Red,200,949.58
+Tumbling Tom Red,225,1051.44
+Tumbling Tom Red,250,1124.48
+Tumbling Tom Red,275,-999.0
+Tumbling Tom Red,300,-999.0
+Tumbling Tom Red,325,1342.36
+Tumbling Tom Red,350,1415.52
+Tumbling Tom Yellow,100,-999.0
+Tumbling Tom Yellow,125,-999.0
+Tumbling Tom Yellow,150,773.11
+Tumbling Tom Yellow,175,862.02
+Tumbling Tom Yellow,200,914.99
+Tumbling Tom Yellow,225,1001.75
+Tumbling Tom Yellow,250,1063.06
+Tumbling Tom Yellow,275,1152.17
+Tumbling Tom Yellow,300,1202.74
+Tumbling Tom Yellow,325,1271.81
+Tumbling Tom Yellow,350,1332.97
+Lollipop,100,719.33
+Lollipop,125,773.43
+Lollipop,150,859.74
+Lollipop,175,927.17
+Lollipop,200,972.42
+Lollipop,225,1043.2
+Lollipop,250,1110.38
+Lollipop,275,1200.24
+Lollipop,300,1233.72
+Lollipop,325,1342.33
+Lollipop,350,1345.51
+Golden Nugget,100,641.51
+Golden Nugget,125,-999.0
+Golden Nugget,150,749.92
+Golden Nugget,175,840.49
+Golden Nugget,200,870.91
+Golden Nugget,225,972.27
+Golden Nugget,250,966.95
+Golden Nugget,275,1052.09
+Golden Nugget,300,1079.26
+Golden Nugget,325,1180.93
+Golden Nugget,350,1264.76
+Maglia Rosa,100,-999.0
+Maglia Rosa,125,708.29
+Maglia Rosa,150,778.22
+Maglia Rosa,175,847.17
+Maglia Rosa,200,923.4
+Maglia Rosa,225,941.53
+Maglia Rosa,250,-999.0
+Maglia Rosa,275,1078.48
+Maglia Rosa,300,-999.0
+Maglia Rosa,325,-999.0
+Maglia Rosa,350,-999.0
+Cherry Bomb,100,713.79
+Cherry Bomb,125,770.03
+Cherry Bomb,150,850.1
+Cherry Bomb,175,918.08
+Cherry Bomb,200,1008.89
+Cherry Bomb,225,1040.16
+Cherry Bomb,250,1180.29
+Cherry Bomb,275,-999.0
+Cherry Bomb,300,1299.68
+Cherry Bomb,325,1347.55
+Cherry Bomb,350,1431.68
+Rapunzel,100,698.69
+Rapunzel,125,751.1
+Rapunzel,150,-999.0
+Rapunzel,175,885.54
+Rapunzel,200,911.99
+Rapunzel,225,1005.38
+Rapunzel,250,-999.0
+Rapunzel,275,1168.9
+Rapunzel,300,1217.98
+Rapunzel,325,1332.52
+Rapunzel,350,1318.53
+Red Currant,100,687.12
+Red Currant,125,-999.0
+Red Currant,150,810.55
+Red Currant,175,-999.0
+Red Currant,200,-999.0
+Red Currant,225,984.04
+Red Currant,250,1043.04
+Red Currant,275,1159.5
+Red Currant,300,1168.99
+Red Currant,325,1245.9
+Red Currant,350,1280.07
+Yellow Currant,100,647.79
+Yellow Currant,125,685.49
+Yellow Currant,150,-999.0
+Yellow Currant,175,836.08
+Yellow Currant,200,926.35
+Yellow Currant,225,964.07
+Yellow Currant,250,1083.26
+Yellow Currant,275,1136.67
+Yellow Currant,300,1151.34
+Yellow Currant,325,1243.14
+Yellow Currant,350,-999.0
+Indigo Cherry Drops,100,687.49
+Indigo Cherry Drops,125,779.33
+Indigo Cherry Drops,150,804.08
+Indigo Cherry Drops,175,889.56
+Indigo Cherry Drops,200,955.72
+Indigo Cherry Drops,225,1035.98
+Indigo Cherry Drops,250,-999.0
+Indigo Cherry Drops,275,-999.0
+Indigo Cherry Drops,300,1194.0
+Indigo Cherry Drops,325,1350.09
+Indigo Cherry Drops,350,-999.0
+Cherry Cascade,100,-999.0
+Cherry Cascade,125,747.34
+Cherry Cascade,150,821.73
+Cherry Cascade,175,915.68
+Cherry Cascade,200,965.97
+Cherry Cascade,225,996.39
+Cherry Cascade,250,1116.1
+Cherry Cascade,275,1188.5
+Cherry Cascade,300,1203.3
+Cherry Cascade,325,-999.0
+Cherry Cascade,350,1365.94
+Terenzo,100,699.32
+Terenzo,125,780.62
+Terenzo,150,808.56
+Terenzo,175,893.82
+Terenzo,200,951.41
+Terenzo,225,1055.18
+Terenzo,250,1055.15
+Terenzo,275,-999.0
+Terenzo,300,1245.09
+Terenzo,325,-999.0
+Terenzo,350,1341.99
+Summer Sun,100,660.39
+Summer Sun,125,744.58
+Summer Sun,150,801.67
+Summer Sun,175,-999.0
+Summer Sun,200,-999.0
+Summer Sun,225,-999.0
+Summer Sun,250,1044.09
+Summer Sun,275,-999.0
+Summer Sun,300,1186.74
+Summer Sun,325,1268.35
+Summer Sun,350,-999.0
+Golden Sweet,100,730.68
+Golden Sweet,125,759.79
+Golden Sweet,150,840.49
+Golden Sweet,175,-999.0
+Golden Sweet,200,979.81
+Golden Sweet,225,1008.8
+Golden Sweet,250,1088.52
+Golden Sweet,275,1165.54
+Golden Sweet,300,1225.49
+Golden Sweet,325,1295.0
+Golden Sweet,350,1324.17
+Cherry Buzz,100,636.31
+Cherry Buzz,125,737.25
+Cherry Buzz,150,814.98
+Cherry Buzz,175,835.32
+Cherry Buzz,200,937.0
+Cherry Buzz,225,981.73
+Cherry Buzz,250,-999.0
+Cherry Buzz,275,1102.64
+Cherry Buzz,300,-999.0
+Cherry Buzz,325,1214.92
+Cherry Buzz,350,-999.0
+Bings,100,-999.0
+Bings,125,686.56
+Bings,150,786.51
+Bings,175,861.93
+Bings,200,950.99
+Bings,225,962.42
+Bings,250,1028.77
+Bings,275,1139.1
+Bings,300,1209.62
+Bings,325,1216.55
+Bings,350,1307.99
+Large Red Cherry,100,-999.0
+Large Red Cherry,125,754.12
+Large Red Cherry,150,806.39
+Large Red Cherry,175,881.48
+Large Red Cherry,200,981.75
+Large Red Cherry,225,1017.32
+Large Red Cherry,250,1063.87
+Large Red Cherry,275,1148.87
+Large Red Cherry,300,1211.37
+Large Red Cherry,325,1298.06
+Large Red Cherry,350,-999.0
+Reisentraube,100,649.16
+Reisentraube,125,-999.0
+Reisentraube,150,753.86
+Reisentraube,175,819.94
+Reisentraube,200,880.58
+Reisentraube,225,951.44
+Reisentraube,250,990.56
+Reisentraube,275,1069.51
+Reisentraube,300,1166.49
+Reisentraube,325,1205.07
+Reisentraube,350,1234.59
+Rosalita,100,674.16
+Rosalita,125,752.7
+Rosalita,150,825.32
+Rosalita,175,859.31
+Rosalita,200,-999.0
+Rosalita,225,969.88
+Rosalita,250,1081.14
+Rosalita,275,1092.37
+Rosalita,300,1137.09
+Rosalita,325,1246.24
+Rosalita,350,1296.69
+Tess's Land Race,100,727.91
+Tess's Land Race,125,-999.0
+Tess's Land Race,150,-999.0
+Tess's Land Race,175,942.31
+Tess's Land Race,200,1033.41
+Tess's Land Race,225,1084.27
+Tess's Land Race,250,-999.0
+Tess's Land Race,275,1237.57
+Tess's Land Race,300,1297.94
+Tess's Land Race,325,-999.0
+Tess's Land Race,350,1411.83
+Jasper,100,657.87
+Jasper,125,-999.0
+Jasper,150,765.7
+Jasper,175,851.27
+Jasper,200,924.61
+Jasper,225,1005.21
+Jasper,250,1061.03
+Jasper,275,1149.62
+Jasper,300,1223.86
+Jasper,325,1318.53
+Jasper,350,1329.0
+Chadwick Cherry,100,693.65
+Chadwick Cherry,125,777.92
+Chadwick Cherry,150,806.99
+Chadwick Cherry,175,881.36
+Chadwick Cherry,200,984.04
+Chadwick Cherry,225,1029.75
+Chadwick Cherry,250,1119.45
+Chadwick Cherry,275,-999.0
+Chadwick Cherry,300,1198.87
+Chadwick Cherry,325,1343.69
+Chadwick Cherry,350,1407.58
+Matt's Wild Cherry,100,723.86
+Matt's Wild Cherry,125,785.47
+Matt's Wild Cherry,150,-999.0
+Matt's Wild Cherry,175,953.12
+Matt's Wild Cherry,200,-999.0
+Matt's Wild Cherry,225,1091.61
+Matt's Wild Cherry,250,1161.0
+Matt's Wild Cherry,275,1203.3
+Matt's Wild Cherry,300,-999.0
+Matt's Wild Cherry,325,1352.04
+Matt's Wild Cherry,350,1508.09
+Green Grape,100,691.35
+Green Grape,125,746.84
+Green Grape,150,848.62
+Green Grape,175,-999.0
+Green Grape,200,936.77
+Green Grape,225,1061.63
+Green Grape,250,-999.0
+Green Grape,275,1167.23
+Green Grape,300,1247.69
+Green Grape,325,1255.05
+Green Grape,350,1368.76
+Sun Chocola,100,642.98
+Sun Chocola,125,710.76
+Sun Chocola,150,771.18
+Sun Chocola,175,-999.0
+Sun Chocola,200,-999.0
+Sun Chocola,225,972.57
+Sun Chocola,250,-999.0
+Sun Chocola,275,1031.94
+Sun Chocola,300,1091.95
+Sun Chocola,325,1232.92
+Sun Chocola,350,-999.0
+Red Profusion,100,644.53
+Red Profusion,125,-999.0
+Red Profusion,150,-999.0
+Red Profusion,175,833.8
+Red Profusion,200,-999.0
+Red Profusion,225,-999.0
+Red Profusion,250,1032.11
+Red Profusion,275,1102.1
+Red Profusion,300,1192.0
+Red Profusion,325,-999.0
+Red Profusion,350,1253.11
+Yellow Profusion,100,-999.0
+Yellow Profusion,125,729.33
+Yellow Profusion,150,818.43
+Yellow Profusion,175,870.08
+Yellow Profusion,200,916.6
+Yellow Profusion,225,-999.0
+Yellow Profusion,250,1097.88
+Yellow Profusion,275,1135.73
+Yellow Profusion,300,-999.0
+Yellow Profusion,325,1307.27
+Yellow Profusion,350,1344.76
+Golden Honey Bunch,100,666.25
+Golden Honey Bunch,125,773.73
+Golden Honey Bunch,150,-999.0
+Golden Honey Bunch,175,928.09
+Golden Honey Bunch,200,957.19
+Golden Honey Bunch,225,1001.28
+Golden Honey Bunch,250,1105.31
+Golden Honey Bunch,275,1190.97
+Golden Honey Bunch,300,-999.0
+Golden Honey Bunch,325,1286.34
+Golden Honey Bunch,350,1363.34
+Chocolate Sprinkles,100,626.18
+Chocolate Sprinkles,125,694.74
+Chocolate Sprinkles,150,-999.0
+Chocolate Sprinkles,175,-999.0
+Chocolate Sprinkles,200,871.88
+Chocolate Sprinkles,225,965.17
+Chocolate Sprinkles,250,1040.34
+Chocolate Sprinkles,275,-999.0
+Chocolate Sprinkles,300,1125.88
+Chocolate Sprinkles,325,-999.0
+Chocolate Sprinkles,350,1271.97
+Micro Tom,100,698.15
+Micro Tom,125,756.08
+Micro Tom,150,816.23
+Micro Tom,175,904.68
+Micro Tom,200,995.7
+Micro Tom,225,1033.45
+Micro Tom,250,-999.0
+Micro Tom,275,1206.76
+Micro Tom,300,1227.41
+Micro Tom,325,1336.96
+Micro Tom,350,1378.73
+Pink Bumble Bee,100,632.19
+Pink Bumble Bee,125,687.75
+Pink Bumble Bee,150,-999.0
+Pink Bumble Bee,175,874.88
+Pink Bumble Bee,200,912.24
+Pink Bumble Bee,225,1020.9
+Pink Bumble Bee,250,1023.51
+Pink Bumble Bee,275,-999.0
+Pink Bumble Bee,300,1164.55
+Pink Bumble Bee,325,1241.52
+Pink Bumble Bee,350,1345.21
+Sunrise Bumble Bee,100,693.63
+Sunrise Bumble Bee,125,802.46
+Sunrise Bumble Bee,150,-999.0
+Sunrise Bumble Bee,175,-999.0
+Sunrise Bumble Bee,200,-999.0
+Sunrise Bumble Bee,225,1070.65
+Sunrise Bumble Bee,250,1149.51
+Sunrise Bumble Bee,275,1248.09
+Sunrise Bumble Bee,300,1290.39
+Sunrise Bumble Bee,325,1392.59
+Sunrise Bumble Bee,350,1418.29
+Purple Bumble Bee,100,634.03
+Purple Bumble Bee,125,718.03
+Purple Bumble Bee,150,745.72
+Purple Bumble Bee,175,814.56
+Purple Bumble Bee,200,864.01
+Purple Bumble Bee,225,917.07
+Purple Bumble Bee,250,1013.85
+Purple Bumble Bee,275,1100.53
+Purple Bumble Bee,300,-999.0
+Purple Bumble Bee,325,1177.87
+Purple Bumble Bee,350,1217.66
+White Cherry,100,621.65
+White Cherry,125,695.96
+White Cherry,150,-999.0
+White Cherry,175,814.81
+White Cherry,200,923.21
+White Cherry,225,933.46
+White Cherry,250,-999.0
+White Cherry,275,1061.83
+White Cherry,300,-999.0
+White Cherry,325,1242.78
+White Cherry,350,1276.65
+Sweet Zen,100,629.22
+Sweet Zen,125,691.71
+Sweet Zen,150,783.8
+Sweet Zen,175,807.91
+Sweet Zen,200,925.91
+Sweet Zen,225,1006.56
+Sweet Zen,250,1026.26
+Sweet Zen,275,1137.29
+Sweet Zen,300,1227.99
+Sweet Zen,325,1257.76
+Sweet Zen,350,1284.87
+Camp Joy,100,669.01
+Camp Joy,125,747.15
+Camp Joy,150,-999.0
+Camp Joy,175,888.41
+Camp Joy,200,-999.0
+Camp Joy,225,1017.69
+Camp Joy,250,1090.59
+Camp Joy,275,-999.0
+Camp Joy,300,1220.24
+Camp Joy,325,1279.78
+Camp Joy,350,-999.0
+Gardeners Delight,100,663.0
+Gardeners Delight,125,767.12
+Gardeners Delight,150,794.59
+Gardeners Delight,175,873.59
+Gardeners Delight,200,948.55
+Gardeners Delight,225,1013.39
+Gardeners Delight,250,1066.74
+Gardeners Delight,275,1176.11
+Gardeners Delight,300,1190.99
+Gardeners Delight,325,1256.45
+Gardeners Delight,350,1342.05
+F1 Sweet Aperitif,100,669.99
+F1 Sweet Aperitif,125,720.26
+F1 Sweet Aperitif,150,788.02
+F1 Sweet Aperitif,175,877.39
+F1 Sweet Aperitif,200,910.66
+F1 Sweet Aperitif,225,985.31
+F1 Sweet Aperitif,250,-999.0
+F1 Sweet Aperitif,275,1104.22
+F1 Sweet Aperitif,300,1137.81
+F1 Sweet Aperitif,325,-999.0
+F1 Sweet Aperitif,350,-999.0
+Blush,100,696.63
+Blush,125,-999.0
+Blush,150,-999.0
+Blush,175,-999.0
+Blush,200,-999.0
+Blush,225,1046.42
+Blush,250,1119.68
+Blush,275,1241.91
+Blush,300,1302.39
+Blush,325,1284.58
+Blush,350,1378.63
+Berry Basket,100,-999.0
+Berry Basket,125,722.38
+Berry Basket,150,793.19
+Berry Basket,175,856.53
+Berry Basket,200,952.94
+Berry Basket,225,1006.35
+Berry Basket,250,1034.02
+Berry Basket,275,1125.35
+Berry Basket,300,1225.28
+Berry Basket,325,1279.52
+Berry Basket,350,1381.33
+Candyland Red,100,677.95
+Candyland Red,125,766.54
+Candyland Red,150,792.95
+Candyland Red,175,-999.0
+Candyland Red,200,995.82
+Candyland Red,225,994.88
+Candyland Red,250,1088.82
+Candyland Red,275,1155.18
+Candyland Red,300,1257.75
+Candyland Red,325,-999.0
+Candyland Red,350,1373.13
+Mexico Midget,100,724.37
+Mexico Midget,125,763.17
+Mexico Midget,150,862.42
+Mexico Midget,175,927.43
+Mexico Midget,200,982.27
+Mexico Midget,225,1056.87
+Mexico Midget,250,1109.09
+Mexico Midget,275,1197.9
+Mexico Midget,300,1275.67
+Mexico Midget,325,1302.4
+Mexico Midget,350,-999.0
+Lucky Tiger,100,-999.0
+Lucky Tiger,125,754.2
+Lucky Tiger,150,-999.0
+Lucky Tiger,175,879.66
+Lucky Tiger,200,996.22
+Lucky Tiger,225,1049.6
+Lucky Tiger,250,1135.56
+Lucky Tiger,275,-999.0
+Lucky Tiger,300,1239.2
+Lucky Tiger,325,-999.0
+Lucky Tiger,350,1410.64
+Sweethearts,100,727.25
+Sweethearts,125,778.61
+Sweethearts,150,874.35
+Sweethearts,175,-999.0
+Sweethearts,200,998.48
+Sweethearts,225,1095.02
+Sweethearts,250,1137.85
+Sweethearts,275,1228.76
+Sweethearts,300,-999.0
+Sweethearts,325,-999.0
+Sweethearts,350,1479.5
+Favorita,100,670.19
+Favorita,125,740.76
+Favorita,150,-999.0
+Favorita,175,913.2
+Favorita,200,971.11
+Favorita,225,1011.19
+Favorita,250,1116.14
+Favorita,275,-999.0
+Favorita,300,1220.51
+Favorita,325,1342.45
+Favorita,350,1354.57
+Tiny Totem,100,661.16
+Tiny Totem,125,730.15
+Tiny Totem,150,818.66
+Tiny Totem,175,904.8
+Tiny Totem,200,930.29
+Tiny Totem,225,978.6
+Tiny Totem,250,1055.4
+Tiny Totem,275,1162.74
+Tiny Totem,300,-999.0
+Tiny Totem,325,1263.77
+Tiny Totem,350,1378.66
+Gold Nugget,100,677.52
+Gold Nugget,125,724.6
+Gold Nugget,150,784.87
+Gold Nugget,175,877.49
+Gold Nugget,200,-999.0
+Gold Nugget,225,-999.0
+Gold Nugget,250,1023.89
+Gold Nugget,275,1118.0
+Gold Nugget,300,-999.0
+Gold Nugget,325,1245.34
+Gold Nugget,350,1329.6
+Coyote,100,669.46
+Coyote,125,713.12
+Coyote,150,780.5
+Coyote,175,879.83
+Coyote,200,-999.0
+Coyote,225,944.7
+Coyote,250,1067.69
+Coyote,275,1123.79
+Coyote,300,-999.0
+Coyote,325,1302.02
+Coyote,350,1345.63
+Rosalina,100,651.88
+Rosalina,125,719.6
+Rosalina,150,771.46
+Rosalina,175,863.42
+Rosalina,200,925.61
+Rosalina,225,1013.27
+Rosalina,250,1058.46
+Rosalina,275,1070.92
+Rosalina,300,1194.79
+Rosalina,325,1228.46
+Rosalina,350,1313.92
+White Currant,100,658.81
+White Currant,125,733.94
+White Currant,150,780.17
+White Currant,175,875.74
+White Currant,200,979.18
+White Currant,225,-999.0
+White Currant,250,1118.75
+White Currant,275,1173.72
+White Currant,300,-999.0
+White Currant,325,1263.03
+White Currant,350,1435.59
+Orange Paruche,100,661.51
+Orange Paruche,125,735.84
+Orange Paruche,150,781.55
+Orange Paruche,175,877.7
+Orange Paruche,200,-999.0
+Orange Paruche,225,1005.57
+Orange Paruche,250,-999.0
+Orange Paruche,275,1136.2
+Orange Paruche,300,1237.22
+Orange Paruche,325,1369.1
+Orange Paruche,350,-999.0
+Baby Boomer,100,702.64
+Baby Boomer,125,766.8
+Baby Boomer,150,842.93
+Baby Boomer,175,926.96
+Baby Boomer,200,966.6
+Baby Boomer,225,1046.14
+Baby Boomer,250,1081.82
+Baby Boomer,275,1180.45
+Baby Boomer,300,1273.56
+Baby Boomer,325,1359.71
+Baby Boomer,350,1415.67
+Red Robin,100,626.08
+Red Robin,125,702.4
+Red Robin,150,735.79
+Red Robin,175,777.61
+Red Robin,200,840.96
+Red Robin,225,914.65
+Red Robin,250,967.01
+Red Robin,275,1038.42
+Red Robin,300,1075.11
+Red Robin,325,1207.01
+Red Robin,350,1243.28
+Amy's Sugar Gem,100,647.79
+Amy's Sugar Gem,125,691.28
+Amy's Sugar Gem,150,758.53
+Amy's Sugar Gem,175,873.44
+Amy's Sugar Gem,200,902.58
+Amy's Sugar Gem,225,983.22
+Amy's Sugar Gem,250,-999.0
+Amy's Sugar Gem,275,1132.13
+Amy's Sugar Gem,300,1132.77
+Amy's Sugar Gem,325,1209.96
+Amy's Sugar Gem,350,-999.0
+Mirabelle Blanche,100,678.88
+Mirabelle Blanche,125,773.66
+Mirabelle Blanche,150,-999.0
+Mirabelle Blanche,175,935.04
+Mirabelle Blanche,200,983.55
+Mirabelle Blanche,225,1042.62
+Mirabelle Blanche,250,1146.78
+Mirabelle Blanche,275,-999.0
+Mirabelle Blanche,300,1211.46
+Mirabelle Blanche,325,-999.0
+Mirabelle Blanche,350,1402.25
+Sprite Grape,100,684.16
+Sprite Grape,125,763.74
+Sprite Grape,150,817.46
+Sprite Grape,175,862.94
+Sprite Grape,200,939.9
+Sprite Grape,225,962.84
+Sprite Grape,250,1082.83
+Sprite Grape,275,1126.06
+Sprite Grape,300,1130.93
+Sprite Grape,325,1261.55
+Sprite Grape,350,-999.0
+Pink Champagne,100,689.93
+Pink Champagne,125,749.97
+Pink Champagne,150,-999.0
+Pink Champagne,175,901.18
+Pink Champagne,200,1002.45
+Pink Champagne,225,1020.57
+Pink Champagne,250,1070.39
+Pink Champagne,275,1175.73
+Pink Champagne,300,1223.02
+Pink Champagne,325,-999.0
+Pink Champagne,350,-999.0
+Fireworks,100,674.78
+Fireworks,125,738.73
+Fireworks,150,-999.0
+Fireworks,175,-999.0
+Fireworks,200,993.02
+Fireworks,225,1001.67
+Fireworks,250,-999.0
+Fireworks,275,1181.44
+Fireworks,300,-999.0
+Fireworks,325,1340.62
+Fireworks,350,-999.0
+Peacevine Cherry,100,715.7
+Peacevine Cherry,125,-999.0
+Peacevine Cherry,150,828.13
+Peacevine Cherry,175,943.51
+Peacevine Cherry,200,980.35
+Peacevine Cherry,225,1103.73
+Peacevine Cherry,250,1142.23
+Peacevine Cherry,275,1188.82
+Peacevine Cherry,300,-999.0
+Peacevine Cherry,325,1352.61
+Peacevine Cherry,350,-999.0
+Black Vernissage,100,717.3
+Black Vernissage,125,746.49
+Black Vernissage,150,831.38
+Black Vernissage,175,882.58
+Black Vernissage,200,985.48
+Black Vernissage,225,1024.69
+Black Vernissage,250,-999.0
+Black Vernissage,275,-999.0
+Black Vernissage,300,1206.39
+Black Vernissage,325,1247.21
+Black Vernissage,350,-999.0
+Orange Zinger,100,647.54
+Orange Zinger,125,716.95
+Orange Zinger,150,792.17
+Orange Zinger,175,815.18
+Orange Zinger,200,939.13
+Orange Zinger,225,977.42
+Orange Zinger,250,1014.22
+Orange Zinger,275,1110.76
+Orange Zinger,300,-999.0
+Orange Zinger,325,-999.0
+Orange Zinger,350,1308.12
+Lucid Gem,100,-999.0
+Lucid Gem,125,722.18
+Lucid Gem,150,784.51
+Lucid Gem,175,832.25
+Lucid Gem,200,911.83
+Lucid Gem,225,971.24
+Lucid Gem,250,984.43
+Lucid Gem,275,1046.13
+Lucid Gem,300,-999.0
+Lucid Gem,325,-999.0
+Lucid Gem,350,-999.0
+Lemon Drop,100,720.4
+Lemon Drop,125,-999.0
+Lemon Drop,150,843.72
+Lemon Drop,175,-999.0
+Lemon Drop,200,942.66
+Lemon Drop,225,1016.33
+Lemon Drop,250,1090.65
+Lemon Drop,275,1169.02
+Lemon Drop,300,-999.0
+Lemon Drop,325,1253.13
+Lemon Drop,350,1364.9
+Red Zebra,100,689.6
+Red Zebra,125,740.41
+Red Zebra,150,853.42
+Red Zebra,175,881.02
+Red Zebra,200,-999.0
+Red Zebra,225,1060.88
+Red Zebra,250,1116.72
+Red Zebra,275,1151.15
+Red Zebra,300,1191.17
+Red Zebra,325,1278.43
+Red Zebra,350,1361.59
+Blueberry Cherry,100,655.75
+Blueberry Cherry,125,-999.0
+Blueberry Cherry,150,-999.0
+Blueberry Cherry,175,892.35
+Blueberry Cherry,200,-999.0
+Blueberry Cherry,225,-999.0
+Blueberry Cherry,250,1053.13
+Blueberry Cherry,275,-999.0
+Blueberry Cherry,300,-999.0
+Blueberry Cherry,325,1256.58
+Blueberry Cherry,350,-999.0
+Champagne Cherry,100,666.51
+Champagne Cherry,125,707.5
+Champagne Cherry,150,776.11
+Champagne Cherry,175,838.03
+Champagne Cherry,200,-999.0
+Champagne Cherry,225,986.87
+Champagne Cherry,250,1068.49
+Champagne Cherry,275,-999.0
+Champagne Cherry,300,1125.86
+Champagne Cherry,325,1211.17
+Champagne Cherry,350,1324.76
+Galina,100,613.39
+Galina,125,674.93
+Galina,150,-999.0
+Galina,175,836.42
+Galina,200,895.61
+Galina,225,961.53
+Galina,250,1026.93
+Galina,275,1122.35
+Galina,300,1170.89
+Galina,325,1262.77
+Galina,350,1282.45
+Ildi,100,652.88
+Ildi,125,724.74
+Ildi,150,814.03
+Ildi,175,-999.0
+Ildi,200,922.76
+Ildi,225,1025.27
+Ildi,250,1059.81
+Ildi,275,1146.11
+Ildi,300,1238.52
+Ildi,325,1273.7
+Ildi,350,-999.0
+Cerise Orange,100,-999.0
+Cerise Orange,125,717.31
+Cerise Orange,150,792.28
+Cerise Orange,175,875.96
+Cerise Orange,200,-999.0
+Cerise Orange,225,-999.0
+Cerise Orange,250,-999.0
+Cerise Orange,275,1070.55
+Cerise Orange,300,1155.32
+Cerise Orange,325,1193.47
+Cerise Orange,350,1333.25
+Clackamas Blueberry,100,-999.0
+Clackamas Blueberry,125,729.17
+Clackamas Blueberry,150,797.38
+Clackamas Blueberry,175,849.04
+Clackamas Blueberry,200,914.22
+Clackamas Blueberry,225,979.79
+Clackamas Blueberry,250,1088.0
+Clackamas Blueberry,275,1111.62
+Clackamas Blueberry,300,1181.63
+Clackamas Blueberry,325,1279.37
+Clackamas Blueberry,350,1296.28
+Midnight Snack,100,626.53
+Midnight Snack,125,718.07
+Midnight Snack,150,-999.0
+Midnight Snack,175,826.04
+Midnight Snack,200,893.15
+Midnight Snack,225,888.02
+Midnight Snack,250,-999.0
+Midnight Snack,275,1018.25
+Midnight Snack,300,1162.52
+Midnight Snack,325,1164.66
+Midnight Snack,350,1223.4
+Hssiao His Hung Shih,100,661.8
+Hssiao His Hung Shih,125,726.59
+Hssiao His Hung Shih,150,819.82
+Hssiao His Hung Shih,175,881.02
+Hssiao His Hung Shih,200,961.31
+Hssiao His Hung Shih,225,1014.84
+Hssiao His Hung Shih,250,1086.57
+Hssiao His Hung Shih,275,1122.62
+Hssiao His Hung Shih,300,-999.0
+Hssiao His Hung Shih,325,1233.59
+Hssiao His Hung Shih,350,1346.67
+Brandywine Cherry,100,680.2
+Brandywine Cherry,125,714.27
+Brandywine Cherry,150,808.41
+Brandywine Cherry,175,867.29
+Brandywine Cherry,200,928.15
+Brandywine Cherry,225,1008.02
+Brandywine Cherry,250,1049.7
+Brandywine Cherry,275,1168.39
+Brandywine Cherry,300,1199.03
+Brandywine Cherry,325,-999.0
+Brandywine Cherry,350,1326.43
+Suncherry Extra Sweet,100,-999.0
+Suncherry Extra Sweet,125,741.66
+Suncherry Extra Sweet,150,843.36
+Suncherry Extra Sweet,175,930.02
+Suncherry Extra Sweet,200,1015.72
+Suncherry Extra Sweet,225,1062.99
+Suncherry Extra Sweet,250,1152.56
+Suncherry Extra Sweet,275,1184.4
+Suncherry Extra Sweet,300,1283.23
+Suncherry Extra Sweet,325,1335.06
+Suncherry Extra Sweet,350,1441.8
+Sprite Mini,100,706.51
+Sprite Mini,125,765.94
+Sprite Mini,150,800.88
+Sprite Mini,175,874.03
+Sprite Mini,200,936.7
+Sprite Mini,225,966.37
+Sprite Mini,250,1033.12
+Sprite Mini,275,-999.0
+Sprite Mini,300,1201.21
+Sprite Mini,325,1204.33
+Sprite Mini,350,1308.18
+Bush Early Girl Cherry,100,699.29
+Bush Early Girl Cherry,125,788.47
+Bush Early Girl Cherry,150,864.55
+Bush Early Girl Cherry,175,-999.0
+Bush Early Girl Cherry,200,971.9
+Bush Early Girl Cherry,225,1041.89
+Bush Early Girl Cherry,250,1138.17
+Bush Early Girl Cherry,275,1187.36
+Bush Early Girl Cherry,300,1258.62
+Bush Early Girl Cherry,325,-999.0
+Bush Early Girl Cherry,350,1395.17

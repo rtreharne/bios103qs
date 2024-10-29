@@ -18,19 +18,18 @@ def get_quiz(course):
         print("Invalid quiz number")
 
 def create_group_questions(quiz_group):
-    for i in range(100, 200):
+    for i in range(200, 300):
 
         answer = get_answer(i)
 
         question_text = f"""
-            <p>[<a href='https://www.canvaswizards.org.uk/dataspell/calibration/{i}'>Download this .csv file</a>]<p>
+            <p>You have prepared a serial dilution of a known substance and made measurements with a spectrophotometer to generate a calibration curve.</p>
+            <p>[<a href='https://canvaswizards.org.uk/dataspell/calibration/{i}'>Download the data.</a>] | <a target="_blank" href='https://raw.githubusercontent.com/rtreharne/qs/main/data/03/part_1/data_{i}.csv'>Backup link to data file</a><p>
             <p>Import the .csv into Excel.</p>
             <p>Transpose the data so that the 'concentration' values are in the first column and the 'absorbance' values are in the second column.</p>
-            <p>Header information:</p>
-
             <p>Generate a scatterplot and add a linear trendline and the equation of the line.</p>
             <p>For an absorbance value of 0.5, estimate the protein concentration?</p>
-            <p>Express your answer to <strong>2 decimal places</strong> and in units of mg/mL.</p>
+            <p>Express your answer in units of mg/mL and to <strong>2 decimal places</strong> </p>
         """
         question = quiz.create_question(question=
             {
@@ -40,7 +39,7 @@ def create_group_questions(quiz_group):
                 'question_type': 'numerical_question',
                 'quiz_group_id': quiz_group.id,
                 'correct_comments': 'Correct, well done!',
-                'incorrect_comments': 'Incorrect, try again! Did you remember to set your intercept to zero?',
+                'incorrect_comments': 'Incorrect',
                 'answers': [
                     {
                         'text': f'Answer #{i}', 

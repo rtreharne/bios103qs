@@ -1,0 +1,87 @@
+
+# Mushroom Compost Data Analysis in R
+
+## Introduction
+In this exercise, we will visualize data from a mushroom composting dataset. The task involves creating summary statistics and visualizations using R. Each student will receive a unique dataset based on their student ID.
+
+## Downloading the Dataset
+1. **Go to** `www.canvaswizards.org.uk/compost`.
+2. **Enter your Student ID** and click **I agree**.
+3. **Download the dataset**. The file will be named `compost_<ID>.csv` where `<ID>` is your student ID.
+
+## Setting Up RStudio
+1. **Create a new project** in RStudio, named `U_compost`.
+2. **Start a new script** file called `summary_table.R`.
+
+## Reading the Data
+```r
+# Comment: Read data
+data <- read.csv("compost_<ID>.csv")
+```
+
+## Creating Summary Statistics
+1. **Install and load the dplyr package** if not already installed.
+   ```r
+   # Install dplyr if not installed
+   install.packages("dplyr")
+   
+   # Load the library
+   library(dplyr)
+   ```
+
+2. **Calculate Summary Statistics**
+   ```r
+   # Create summary statistics table
+   summary_stats <- data %>%
+     group_by(Location) %>%
+     summarise(
+       mean_temp = mean(Temperature, na.rm = TRUE),
+       sd_temp = sd(Temperature, na.rm = TRUE),
+       mean_moisture = mean(Moisture, na.rm = TRUE),
+       sd_moisture = sd(Moisture, na.rm = TRUE),
+       mean_vbc = mean(Viable.Counts * 2e5 / 1e7, na.rm = TRUE),
+       sd_vbc = sd(Viable.Counts * 2e5 / 1e7, na.rm = TRUE)
+     )
+   
+   # Print summary statistics
+   print(summary_stats)
+   ```
+
+3. **Export Summary Statistics to CSV**
+   ```r
+   write.csv(summary_stats, "summary_stats.csv", row.names = FALSE)
+   ```
+
+## Data Visualization
+Create basic visualizations using R:
+
+1. **Histogram**
+   ```r
+   hist(data$Temperature, main="Temperature Distribution", xlab="Temperature", col="blue")
+   ```
+
+2. **Box Plot**
+   ```r
+   boxplot(data$Moisture ~ data$Location, main="Moisture by Location", xlab="Location", ylab="Moisture")
+   ```
+
+3. **Scatter Plot**
+   ```r
+   plot(data$Temperature, data$Viable.Counts, main="Temperature vs Viable Counts", xlab="Temperature", ylab="Viable Counts")
+   ```
+
+## Formatting and Submission
+1. **Open the summary statistics CSV** in Excel and format it for a Word document.
+2. **Include units** in your table for clarity (e.g., Temperature in °C, Moisture in %, VBC in CFU per gram).
+3. **Add a caption** and define any abbreviations used in the table.
+
+## Notes
+- When quoting viable bacterial counts, use the format "x 10^7 CFU per gram".
+- Always define abbreviations like TM (Temperature), M (Moisture), VBC (Viable Bacterial Count).
+
+## Submission
+Submit the Word document with tables and graphs as instructed on Canvas.
+
+---
+
+**End of Document**

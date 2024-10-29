@@ -18,7 +18,7 @@ def get_quiz(course):
         print("Invalid quiz number")
 
 def create_group_questions(quiz_group):
-    for i in range(200, 300):
+    for i in range(201, 301):
 
         
 
@@ -28,14 +28,17 @@ def create_group_questions(quiz_group):
         answer = get_answer(i, group, stat)
 
         question_text = f"""
-            <p>[<a href='https://www.canvaswizards.org.uk/dataspell/zebrafish/{i}'>Download this .csv file</a>]<p>
-            <p>Import the .csv into Excel.</p>
-            <p>Header information:</p>
+            <p>You perform an experiment to investigate the effects of Zebrafish embryo development under different ethanol concentrations. You measure the lengths of embryos treated with 0% (control group), 1.5%, 2% and 2.5% concentrations of ethanol solution.</p>
+            <br>
+            <p>Your resultant data has the following headers:</p>
             <ul>
                 <li>'id' column: unique identifier</li>
                 <li>'conc_pc' column: ethanol concentration (%)</li>
                 <li>'length_micron' column: Embryo Length (microns)</li>
             </ul>
+            <br>
+            <p>[<a href='https://canvaswizards.org.uk/dataspell/zebrafish/{i}'>Download the data</a>] | <a target="_blank" href='https://raw.githubusercontent.com/rtreharne/qs/main/data/02/zebrafish_{i}.csv'>Backup link to data file</a></p>
+            <p>Import the .csv into Excel.</p>
             <p>Generate a summary table that includes the following statistics, by group, for the 'length_micron' column:</p>
             <ul>
                 <li>Mean</li>
@@ -56,7 +59,7 @@ def create_group_questions(quiz_group):
                 'question_type': 'numerical_question',
                 'quiz_group_id': quiz_group.id,
                 'correct_comments': 'Correct, well done!',
-                'incorrect_comments': 'Incorrect, try again!',
+                'incorrect_comments': 'Incorrect.',
                 'answers': [
                     {
                         'text': f'Answer #{i}', 

@@ -20,7 +20,7 @@ def get_quiz(course):
         print("Invalid quiz number")
 
 def create_group_questions(quiz_group):
-    for i in range(100,200):
+    for i in range(200, 301):
 
         
 
@@ -30,7 +30,9 @@ def create_group_questions(quiz_group):
         answer = get_answer(i, group, stat)
 
         question_text = f"""
-            <p>[<a href='https://www.canvaswizards.org.uk/dataspell/zebrafish/{i}'>Download this .csv file</a>]<p>
+            <p>You repeat your Zebrafish experiment and generate a new set of data. To answer this question DO NOT use the data from the previous question.</p>
+            <br>
+            <p>[<a href='https://canvaswizards.org.uk/dataspell/zebrafish/{i}'>Download this .csv file</a>] | <a target="_blank" href='https://raw.githubusercontent.com/rtreharne/qs/main/data/02/zebrafish_{i}.csv'>Backup link to data file</a></p>
             <p style="color: red;">Warning! This not the same data as in the previous question.</p>
             <p>Import the .csv into Excel.</p>
             <p>Header information:</p>
@@ -52,7 +54,7 @@ def create_group_questions(quiz_group):
                 'question_type': 'numerical_question',
                 'quiz_group_id': quiz_group.id,
                 'correct_comments': 'Correct, well done!',
-                'incorrect_comments': 'Incorrect, try again!',
+                'incorrect_comments': 'Incorrect.',
                 'answers': [
                     {
                         'text': f'Answer #{i}', 

@@ -18,18 +18,19 @@ def get_quiz(course):
         print("Invalid quiz number")
 
 def create_group_questions(quiz_group):
-    for i in range(200, 300):
+    for i in range(200, 301):
 
         answer = get_answer(i)
 
 
 
         question_text = f"""
-            <p>[<a href='https://www.canvaswizards.org.uk/dataspell/snails/{i}'>Download this .csv file</a>]<p>
+            <p>You are required to investigate the relationship between the mass and estimated volumes for a sample of snails.<p>
+            <p>[<a href='https://canvaswizards.org.uk/dataspell/snails/{i}'>Download this .csv file</a>] | <a target="_blank" href='https://raw.githubusercontent.com/rtreharne/qs/main/data/01/snails_{i}.csv'>Backup link to data file</a><p>
             <p>Import the .csv into Excel.</p>
             <p>Calculate a third column called 'Volume V (mm<sup>3</sup>)' using the formula:</p>
             <p>V = (4/3) &pi; r<sup>3</sup></p>
-            <p>where r is the 'Height L (mm)' column.</p>
+            <p>where r is the half the 'Height L (mm)' column.</p>
             <p>Add a linear trendline, including the equation on the chart.</p>
             <p>Using the equation of the trendline, calculate an estimate for the volume of a snail with a mass of 10g.</p>
             <p>Express your answer in <strong>cm<sup>3</sup></strong> to <strong>1 decimal place</strong>.</p>
@@ -62,7 +63,7 @@ def get_answer(unique_id):
     df = pd.read_csv('week_1_snail_data.csv')
     sample = df.sample(n=160)
 
-    sample['Volume V (mm^3)'] = (4/3) * np.pi * sample['Height L (mm)'] ** 3
+    sample['Volume V (mm^3)'] = (4/3) * np.pi * (0.5 * sample['Height L (mm)']) ** 3
 
     x = sample[['Snail mass M (g)']]
     y = sample[['Volume V (mm^3)']]

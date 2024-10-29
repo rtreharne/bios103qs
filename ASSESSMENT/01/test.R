@@ -1,5 +1,5 @@
 # create a variable called "seed"
-seed = 293
+seed = 200
 
 # set the seed
 set.seed(seed)
