@@ -21,7 +21,7 @@ for (i in 1:length(image_files)) {
 cat(" Done! \n")
 
 # Calculate cell concentrations
-cell_concentrations <- results * 2 * 1e4 / 9
+cell_concentrations <- results * 2 * 1e4 / (1e5*9)
 
 # Output mean and sd of cell concentrations
 cat(" Mean cell concentration: ", 
@@ -37,7 +37,8 @@ hist(cell_concentrations,
      breaks = 10,
      col = "lightblue",
      border = "black",
-     freq=FALSE)
+     freq=FALSE
+     )
 
 # Add a vertical line at the mean
 abline(v = mean(cell_concentrations), col = "red")

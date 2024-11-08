@@ -11,6 +11,8 @@ def generate_image(grid=False, mean=100, std=10, save=False):
     # Define number of circles
     # Define according to normal distribution
     num_circles = int(random.normalvariate(mean, std))
+
+    print("num_circles", num_circles)
     
     
     # Define radius of circles

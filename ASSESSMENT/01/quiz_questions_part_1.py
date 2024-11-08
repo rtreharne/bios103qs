@@ -41,7 +41,7 @@ def create_group_questions(quiz_group):
                 'question_text': question_text,
                 'points_possible': 1, 
                 'question_type': 'numerical_question',
-                'quiz_group_id': quiz_group.id,
+                #'quiz_group_id': quiz_group.id,
                 'correct_comments': 'Correct, well done!',
                 'incorrect_comments': 'Incorrect, try again!',
                 'answers': [

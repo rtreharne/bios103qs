@@ -6,6 +6,11 @@ source("hemo-tools.R")
 # Count the number of cells in the image
 result <- count_objects("hemo.png")
 
+nv <- count_blue_objects("hemo.png")
+
+print(result)
+print(nv)
+
 # Calculate cell concentration
 cell_concentration <- result * 2 * 1e4 / 9
 
